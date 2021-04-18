@@ -1,4 +1,4 @@
-##Note taking app using ReactJS, Redux,  NodeJs.
+## Note taking app using ReactJS, Redux,  NodeJs.
 
 The user is prompt to create Labels for notes ( at least 3 characters long). Then create notes "Create Note" for specific labels, for example:
 -The user creates a "Health" label by selecting the "Add label" tab on the navbar
