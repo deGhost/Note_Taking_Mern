@@ -5,3 +5,8 @@ The user is prompt to create Labels for notes ( at least 3 characters long). The
 -To create the note, the user selects on of the labels suggested in a drop-down list (selects "Health") and type the note.
 
 On the "Notes" the list of all notes are displayed.
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
